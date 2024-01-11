@@ -9,7 +9,7 @@ A brief description of what this project does and who it's for comes here.
 
 
 ## Tools
-In this part you mention hardware or sumulators used in your project.
+In this section, you should mention the hardware or simulators utilized in your project.
 - Qemu
 - Gem5
 - ESP32
@@ -17,16 +17,16 @@ In this part you mention hardware or sumulators used in your project.
 - Temperature Sensor
 
 
-## Implementation Detail
+## Implementation Details
 
-In this part you explain how you have done your project. Using pictures is recommended to show your system model and implementation.
+In this section, you will explain how you completed your project. It is recommended to use pictures to demonstrate your system model and implementation.
 
 
-You are free to use sub-topics here. If your projects contains multiple parts (e.g. server, clinet and embedded device), use a topic for each one of them.
+Feel free to use sub-topics for your projects. If your project consists of multiple parts (e.g. server, client, and embedded device), create a separate topic for each one.
 
 ## How to Run
 
-In this section you should guide users how to run your project.
+In this part, you should provide instructions on how to run your project.
 
 #### Examples:
 #### Build Project
@@ -48,12 +48,12 @@ Your text comes here
 
 
 ## Results
-In this section you should explain your results.
+In this section, you should present your results and provide an explanation for them.
 
-Using images is required.
+Using image is required.
 
 ## Related Links
-Some links that are related to your project come here.
+Some links related to your project come here.
  - [EDK II](https://github.com/tianocore/edk2)
  - [ESP32 Pinout](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
  - [Django Doc](https://docs.djangoproject.com/en/5.0/)
