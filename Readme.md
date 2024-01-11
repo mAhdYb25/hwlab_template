@@ -26,7 +26,7 @@ Feel free to use sub-topics for your projects. If your project consists of multi
 
 ## How to Run
 
-In this part, you should provide instructions on how to run your project.
+In this part, you should provide instructions on how to run your project. Also if your project requires any prerequisites, mention them. 
 
 #### Examples:
 #### Build Project
