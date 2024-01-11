@@ -37,7 +37,7 @@ Your text comes here
 
 #### Run server
 Your text comes here
-```python
+```bash
   pyhton server.py -p 8080
 ```
 

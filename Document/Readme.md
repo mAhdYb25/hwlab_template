@@ -1,6 +1,5 @@
 
 # Project Documentation
-[edit this readme]
 
 Please upload your final report in **PDF** format to this folder.
 
