@@ -31,7 +31,7 @@ In this part, you should provide instructions on how to run your project.
 #### Examples:
 #### Build Project
 Your text comes here
-```python
+```bash
   build --platform=OvmfPkg/OvmfPkgX64.dsc --arch=X64 --buildtarget=RELEASE --tagname=GCC5
 ```
 
