@@ -1,4 +1,4 @@
-![Logo]([https://via.placeholder.com/600x150?text=Your+Logo+Here+600x150](https://placehold.co/600x150?text=Your+Logo+Here+600x150))
+![Logo](https://placehold.co/600x150/EEE/757D6F?text=Your+Logo+Here+\n+600x150&font=raleway)
 
 # Project Title
 
