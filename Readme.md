@@ -1,65 +1,76 @@
-
 ![Logo](https://via.placeholder.com/600x150?text=Your+Logo+Here+600x150)
-
 
 # Project Title
 
-A brief description of what this project does and who it's for comes here.
+## Table of Contents
+1. [About The Project](#about-the-project)
+2. [Tools](#tools)
+3. [Getting Started](#getting-started)
+   - [Implementation Details](#implementation-details)
+   - [How to Run](#how-to-run)
+4. [Results](#results)
+5. [Related Links](#related-links)
+6. [Authors](#authors)
 
+## About The Project
+
+This project aims to [briefly describe the main goal or purpose of your project]. It addresses [mention the problem or need your project solves] by [explain how your project solves the problem]. The motivation behind this project is [state the reason or inspiration for starting the project]. Unique features include [list any distinctive aspects or functionalities of your project].
 
 ## Tools
-In this section, you should mention the hardware or simulators utilized in your project.
-- Qemu
-- Gem5
-- ESP32
-- Raspberry Pi 3B
-- Temperature Sensor
 
+In this project, we used the following tools and hardware:
 
-## Implementation Details
+- **Qemu**: An open-source emulator and virtualizer.
+- **Gem5**: A simulator for computer-system architecture research.
+- **ESP32**: A low-cost, low-power system on a chip with Wi-Fi and Bluetooth capabilities.
+- **Raspberry Pi 3B**: A small, affordable computer used for various projects.
+- **Temperature Sensor**: A device used to measure temperature.
 
-In this section, you will explain how you completed your project. It is recommended to use pictures to demonstrate your system model and implementation.
+## Getting Started
 
+To set up and run this project on your local machine, follow these steps:
 
-Feel free to use sub-topics for your projects. If your project consists of multiple parts (e.g. server, client, and embedded device), create a separate topic for each one.
+### Implementation Details
 
-## How to Run
+In this section, we explain how we built the project. We recommend using images to show your system model and implementation steps.
 
-In this part, you should provide instructions on how to run your project. Also if your project requires any prerequisites, mention them. 
+If your project has multiple parts (e.g., server, client, and embedded device), create separate sections for each one.
 
-#### Examples:
-#### Build Project
-Your text comes here
-```bash
-  build --platform=OvmfPkg/OvmfPkgX64.dsc --arch=X64 --buildtarget=RELEASE --tagname=GCC5
-```
+### How to Run
 
-#### Run server
-Your text comes here
-```bash
-  pyhton server.py -p 8080
-```
+Follow these steps to run the project:
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `-p` | `int` | **Required**. Server port |
+1. **Build the Project**: Compile the project using the following command:
 
+   ```bash
+   build --platform=OvmfPkg/OvmfPkgX64.dsc --arch=X64 --buildtarget=RELEASE --tagname=GCC5
+   ```
 
+2. **Run the Server**: Start the server with this command:
+
+   ```bash
+   python server.py -p 8080
+   ```
+
+   | Parameter | Type | Description |
+   | :-------- | :--- | :---------- |
+   | `-p`      | `int` | **Required**. Server port |
 
 ## Results
-In this section, you should present your results and provide an explanation for them.
 
-Using image is required.
+In this section, present your results and explain them. Use images to illustrate your findings.
 
 ## Related Links
-Some links related to your project come here.
- - [EDK II](https://github.com/tianocore/edk2)
- - [ESP32 Pinout](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
- - [Django Doc](https://docs.djangoproject.com/en/5.0/)
 
+Here are some links related to this project:
+
+- [EDK II](https://github.com/tianocore/edk2)
+- [ESP32 Pinout](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
+- [Django Documentation](https://docs.djangoproject.com/en/5.0/)
 
 ## Authors
-Authors and their github link come here.
-- [@Author1](https://github.com/Sharif-University-ESRLab)
-- [@Author2](https://github.com/Sharif-University-ESRLab)
 
+The authors of this project are:
+
+- [@Author1](https://github.com/@Author1)
+- [@Author2](https://github.com/@Author2)

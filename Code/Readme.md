@@ -1,20 +1,21 @@
-
 # Code
 
-Please upload your final codes to this folder.
+Please upload your final code files to this folder.
 
-If your project consists of multiple parts (e.g. server, client, and embedded device), create a separate folder for each one.
+If your project has multiple parts (e.g., server, client, and embedded device), create a separate folder for each one.
 
-
-Please edit this *readme* file and give brief description of each part.
+Edit this *README* file to provide a brief description of each part.
 
 **Example:**
 
 ## Server
-Server implemeted using `Django`.
+
+The server is built using `Django`, a popular web framework for Python. It handles requests from clients and manages data processing.
 
 ## Client
-Pure `HTML`, `CSS`& `JS` is used for user interface.
+
+The client-side interface is developed with `HTML`, `CSS`, and `JavaScript`. This combination creates a responsive and interactive user experience.
 
 ## ESP32
-ESP32 is prgorammed using `C++` in `Arduino IDE`. 
+
+The ESP32 microcontroller is programmed in `C++` using the `Arduino IDE`. This setup allows for efficient handling of hardware interactions and communication protocols.
